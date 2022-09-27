@@ -1,4 +1,5 @@
 ### Hi there 👋
+In this repository you will find projects that I have developed to study some libraries and frameworks.
 
 <!--
 **andrescortesdev/andrescortesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
